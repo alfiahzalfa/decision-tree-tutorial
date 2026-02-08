@@ -81,4 +81,5 @@ accuracy = accuracy_score(y_test, y_pred)
 print(f"Akurasi: {accuracy}")
 ```
 
-HALOO BRANCHH
+
+Haloo branch
